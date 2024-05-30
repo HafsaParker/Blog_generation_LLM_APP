@@ -7,5 +7,7 @@ This repo contains the basics of Blog generation app using LLama 2 and hugging f
 2. Create a Main Folder and than create another sub folder "models" and place the bin file inside it.
 3. Open VS code and create a requirement.txt.
 4. Create a Virtual Environment :
-   1.  python3 -m venv venv
+   1.  *python3 -m venv venv*
+   2.  activate the venv
+5. RUN : *pip install -r requirement.txt*
    
