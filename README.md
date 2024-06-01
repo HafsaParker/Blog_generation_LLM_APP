@@ -10,6 +10,6 @@ This repo contains the basics of Blog generation app using LLama 2 and hugging f
    1.  *python3 -m venv venv*
    2.  activate the venv
 5. RUN : *pip install -r requirement.txt*
-6. After installation just run the follwing command *streamlit run app.py*
+6. After installation just run the follwing command *streamlit run app.py*  
  TADAAA....
  # ITS DONEE
